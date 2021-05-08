@@ -15,7 +15,7 @@ export const ContactSchema = new Schema({
         type: String
     },
     company: {
-        type: string
+        type: String
     },
     phone: {
         type: Number
